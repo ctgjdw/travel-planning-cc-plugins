@@ -1,0 +1,18 @@
+{
+    "name": "agent-skills-marketplace",
+    "owner": {
+        "name": "Goh Chun Teck",
+        "url": "https://github.com/ctgjdw"
+    },
+    "plugins": [
+        {
+            "name": "agent-skills",
+            "description": "A collection of agent skills including collaborative trip planning.",
+            "source": {
+                "source": "github",
+                "repo": "ctgjdw/agent-skills"
+            },
+            "homepage": "https://github.com/ctgjdw/agent-skills"
+        }
+    ]
+}

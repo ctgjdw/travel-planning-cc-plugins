@@ -1,0 +1,11 @@
+{
+    "name": "agent-skills",
+    "version": "0.1.0",
+    "description": "A collection of agent skills including trip planning for Claude Code.",
+    "author": {
+        "name": "Goh Chun Teck",
+        "url": "https://github.com/ctgjdw"
+    },
+    "repository": "https://github.com/ctgjdw/agent-skills",
+    "license": "MIT"
+}
