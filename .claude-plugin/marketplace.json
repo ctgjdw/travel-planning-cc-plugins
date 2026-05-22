@@ -1,18 +1,18 @@
 {
-    "name": "agent-skills-marketplace",
+    "name": "agent-skills",
     "owner": {
         "name": "Goh Chun Teck",
         "url": "https://github.com/ctgjdw"
     },
     "plugins": [
         {
-            "name": "agent-skills",
-            "description": "A collection of agent skills including collaborative trip planning.",
+            "name": "travel-planning",
+            "description": "A collection of skills for trip planning in Claude Code.",
             "source": {
                 "source": "github",
-                "repo": "ctgjdw/agent-skills"
+                "repo": "ctgjdw/travel-planning-cc-plugins"
             },
-            "homepage": "https://github.com/ctgjdw/agent-skills"
+            "homepage": "https://github.com/ctgjdw/travel-planning-cc-plugins"
         }
     ]
 }

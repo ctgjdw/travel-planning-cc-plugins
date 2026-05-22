@@ -1,11 +1,11 @@
 {
-    "name": "agent-skills",
+    "name": "travel-planning",
     "version": "0.1.0",
-    "description": "A collection of agent skills including trip planning for Claude Code.",
+    "description": "A collection of skills for trip planning in Claude Code.",
     "author": {
         "name": "Goh Chun Teck",
         "url": "https://github.com/ctgjdw"
     },
-    "repository": "https://github.com/ctgjdw/agent-skills",
+    "repository": "https://github.com/ctgjdw/travel-planning-cc-plugins",
     "license": "MIT"
 }
